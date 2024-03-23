@@ -30,7 +30,6 @@ jobs:
       - name: Build app
         run: |
           yarn build
-          cp ./dist/index.html ./dist/index.html
 
       - name: Build storybook
         run: |
