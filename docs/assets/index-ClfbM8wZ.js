@@ -1,3 +1,0 @@
-import{j as o}from"./jsx-runtime-CKrituN3.js";import{c as d}from"./emotion-css.esm-CZPWP5PG.js";import{r as f}from"./index-CBqU2yxZ.js";const e=f.forwardRef(({className:a="",type:t="text",theme:s="basic",width:u="100%",...r},l)=>{const p=d`
-      width: ${u};
-    `;return o.jsx("input",{type:t,ref:l,className:` ${p} input-${s} ${a}`,...r})});e.displayName="Input";e.__docgenInfo={description:"",methods:[],displayName:"Input",props:{className:{defaultValue:{value:"''",computed:!1},required:!1},type:{defaultValue:{value:"'text'",computed:!1},required:!1},theme:{defaultValue:{value:"'basic'",computed:!1},required:!1},width:{defaultValue:{value:"'100%'",computed:!1},required:!1}}};export{e as I};
