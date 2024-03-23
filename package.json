@@ -11,7 +11,7 @@
     "test": "vitest",
     "test:watch": "vitest --watch",
     "storybook": "storybook dev -p 6006",
-    "build-storybook": "storybook build"
+    "build-storybook": "storybook build -o ./docs"
   },
   "dependencies": {
     "react": "^18.2.0",
